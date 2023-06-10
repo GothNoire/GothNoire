@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div id="header" align="top">
-  <img src="https://media.giphy.com/media/smGCEo5zsAXtK4bqAT/giphy.gif" width="500"/>
+<div id="header" align="top" >
+  <img src="https://media.giphy.com/media/sw1TqRhB6KEguVRtcH/giphy.gif" width="300"  />
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GothNoire" alt="GothNoire" /></p>
