@@ -1,4 +1,5 @@
 ### Hi there 👋
+⚡ &nbsp;Разработчик баз данных<br>
 
 <!--
 **GothNoire/GothNoire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
