@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/smGCEo5zsAXtK4bqAT/giphy.gif" width="100"/>
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GothNoire" alt="GothNoire" /></p>
 
 <p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GothNoire&layout=compact&hide=css,html" alt="GothNoire" /></br></p>
