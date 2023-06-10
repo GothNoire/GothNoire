@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/smGCEo5zsAXtK4bqAT/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/smGCEo5zsAXtK4bqAT/giphy.gif" width="500"/>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GothNoire" alt="GothNoire" /></p>
