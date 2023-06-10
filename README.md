@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GothNoire" alt="GothNoire" /></p>
+
+<p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GothNoire&layout=compact&hide=css,html" alt="GothNoire" /></br></p>
+
